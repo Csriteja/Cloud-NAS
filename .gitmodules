@@ -1,0 +1,3 @@
+[submodule "tests"]
+	path = tests
+	url = https://github.com/chiache/csce678-s21-project1-tests.git
